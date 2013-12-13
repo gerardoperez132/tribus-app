@@ -1,0 +1,80 @@
+body {
+    margin-top: 60px;
+    font-family: 'Open Sans', sans-serif;
+    background: url("img/logo-background.svg");
+    background-repeat: no-repeat;
+    background-position: center bottom ;
+    background-attachment: fixed; 
+    -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover; 
+     background-size: cover;             
+           
+        }
+span.logo_title {
+    display: block;
+    float: left;
+    font-size: 1.89em;
+    font-weight: 300;
+    height: 30px;
+    line-height: 33px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-transform: uppercase;
+    width: 48%;
+}
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: #777777;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+} 
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav li > a:focus {
+    color: #777777;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+    background-color:#003366;
+}          
+span.logo {
+    background: url("img/logo-min.svg") no-repeat scroll center center / contain rgba(0, 0, 0, 0);
+    display: block;
+    float: left;
+    height: 30px;
+    margin: 0;
+    padding: 0;
+    width: 45%;
+}  
+.up {  
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 0;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+    margin: 0;
+    min-height: 40px;
+    padding-left: 0;
+    padding-right: 0;
+        } 
+h2.login{
+    font-size: 1.89em;
+    font-weight: 300;
+    height: 30px;
+    line-height: 33px;
+        }
+ul.unstyled, ol.unstyled {
+    list-style: none outside none;
+    margin-left: 0;
+}
+ul, ol {
+    margin: 0 0 10px 25px;
+    padding: 0;
+}
+ul, ol {
+    margin: 15px 0 10px 25px;
+    padding: 0;
+}     
+.navbar-inverse .navbar-toggle {
+    background-color: #F0AD4E;
+    border-color: #EEA236;            
+        }     
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{
+                background-color: #EEA236;
+    border-color: #EEA236;            
+        } 
