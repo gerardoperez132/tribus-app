@@ -1,7 +1,7 @@
 body {
     margin-top: 60px;
     font-family: 'Open Sans', sans-serif;
-    background: url("img/logo-background.svg");
+    background: url("../img/logo-background.svg");
     background-repeat: no-repeat;
     background-position: center bottom ;
     background-attachment: fixed; 
@@ -34,7 +34,7 @@ span.logo_title {
     background-color:#003366;
 }          
 span.logo {
-    background: url("img/logo-min.svg") no-repeat scroll center center / contain rgba(0, 0, 0, 0);
+    background: url("../img/logo-min.svg") no-repeat scroll center center / contain rgba(0, 0, 0, 0);
     display: block;
     float: left;
     height: 30px;
