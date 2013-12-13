@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# v0.1
+index.html
+css/bootstrap.css
+css/main.css
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff
+img/logo-background.svg
+img/logo-min.svg
+# Use from network if available
+NETWORK:
+index.html
+
+# Fallback content
+FALLBACK:
+fallback.html
