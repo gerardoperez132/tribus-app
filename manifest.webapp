@@ -3,8 +3,8 @@
   "description": "Tribus es una red social para la gestión de comunidades de software libre. Su objetivo es simplificar las tediosas y repetitivas tareas de mantenimiento, mientras pone a disposición de sus miembros las mejores herramientas que le permitirán expresar su creatividad y desarrollar el máximo potencial de sus capacidades.",
   "launch_path": "/index.html",
   "icons": {
-    "128": "img/logo-min128.png",
-    "60": "img/logo-min.png"
+    "128": "/img/logo-min128.png",
+    "60": "/img/logo-min.png"
   },
   "version": "0.1",
   "developer": {
