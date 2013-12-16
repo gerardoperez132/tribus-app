@@ -15,3 +15,12 @@ More information
  * Twitter: twitter.com/tribusdev
  * Facebook: facebook.com/groups/tribusdev
 
+UPDATE
+======
+
+dom dic 15, @gerardoperez132:
+
+App para Android OS en la carpeta /tribus-app-Android usando Phonegap con el Codigo Original de **@abr4xas**
+
+Apk en la ruta: /tribus-app-Android/tribus-app-Android.apk
+
