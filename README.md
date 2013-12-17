@@ -22,13 +22,6 @@ dom dic 15, @gerardoperez132:
 
 App para Android OS en la carpeta /tribus-app-Android usando Phonegap con el Codigo Original de **@abr4xas**
 
-<<<<<<< HEAD
-Apk en la ruta: /tribus-app-Android/tribus-app-Android.apk
-
-=======
-@gerardoperez132:
-</br>
-App para Android OS en la carpeta /tribus-app-Android usando Phonegap con el Codigo Original de <b>@abr4xas</b>
-</br>
 Apk en la ruta: /tribus-app-Android/bin/tribus-app-Android.apk
->>>>>>> 74585a2e04b1077cd622803cca2b3d5d63efb5c3
+
+
