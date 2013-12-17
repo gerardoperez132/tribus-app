@@ -42,7 +42,7 @@
       </div><!-- /.container -->
     </nav> 
     <div class="container">
-      <form class="form-signin" role="form">
+      <form class="form-signin" method="post" action="http://tribus.canaima.softwarelibre.gob.ve/login" role="form">
         <h2 class="login">Iniciar sesi&oacute;n</h2>
         <div class="form-group">  
             <input type="text" class="form-control" placeholder="Introduzca su nombre de usuario" required autofocus>
